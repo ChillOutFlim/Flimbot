@@ -39,7 +39,7 @@ HotRate: Theres no way to better rate physical attractiveness than using an onli
 
 roulette: A simple game of Russian roulette, 1 bullet in the chamber. An optimist and pessimist once played this, the optimist naturally thinking his odds (5/6) were pretty good. He immediately drew the short straw and was killed. The pessimist knew there was a 1/6 chance he was dying, so he left. Don't be an optimist in life or death situations folks. (Ex: .roulette)
 
-In conclusion, its basically just a useless bot that runs silly commands for the fun of it. Enjoy it, and like I said report any bugs to me, you'd really be doing me a favor. Thanks for reading!
+In conclusion, its basically just a useless bot that runs silly commands for the fun of it. Enjoy it, and like I said report any bugs to me, you'd really be doing me a favor. The code will be kept private unless a personal request for it comes to me from a trusted associate. Thanks for reading!
 
 
 ![1492178054_1382588334777](https://user-images.githubusercontent.com/72233142/99925395-9f8e7f80-2d03-11eb-9abf-4fab6599ce79.gif)
