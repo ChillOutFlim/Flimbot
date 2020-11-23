@@ -41,4 +41,5 @@ roulette: A simple game of Russian roulette, 1 bullet in the chamber. An optimis
 
 In conclusion, its basically just a useless bot that runs silly commands for the fun of it. Enjoy it, and like I said report any bugs to me, you'd really be doing me a favor. Thanks for reading!
 
-https://steamuserimages-a.akamaihd.net/ugc/96107790578251517/90B1C110E1C0DBF50A34480FD5E48E1EABC8136C/
+
+![1492178054_1382588334777](https://user-images.githubusercontent.com/72233142/99925395-9f8e7f80-2d03-11eb-9abf-4fab6599ce79.gif)
